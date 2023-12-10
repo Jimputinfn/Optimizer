@@ -1,5 +1,5 @@
-Optimizer got massive update its now coded in C# and its open source still. Some of old tweaks are gone but they might come back.
-Install it from releases page: https://github.com/Jimputinfn/Optimizer/releases
+Optimizer IS goint to get massive update its going to Be coded in C# and its stilll going to be open source . Some of old tweaks are gone but they might come back.
+Install The latest version from: https://github.com/Jimputinfn/Optimizer/releases
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 What It Does?
 It Clears Temp Files,
